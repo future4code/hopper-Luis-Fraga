@@ -1,0 +1,2 @@
+# Aprendizados da semana
+O início dessa **semana** eu aprendi alguns comandos básicos para trabalhar com o terminal foi muito bom, segue alguns exemplos: cd, mkdir, ls, rm, touch e muitos outros. No meio da semana aprendemos a trabalhar com o git e o Vscode, segue alguen exemplos: git status, git branch, git push e muitos outros. 
