@@ -80,21 +80,78 @@ console.log(`O segundo numero é divisivel pelo primeiro? ${numeroUm !== numeroD
 
 
 
+//Função  = function Aula Quarta 16/02
+
+/*
+
+let nome1 = "Bilu"
+let nome2 = "Biubiu"
+let nome3 = "Catial"
+let nome = "luis"
+*/
+/*
+function mostraNoConsole( parametroNome ) {
+
+    console.log(`Olá` , parametroNome )
+
+}
+
+mostraNoConsole( "luis" )
+mostraNoConsole( "amanda" )
+mostraNoConsole( nome )
+mostraNoConsole(nome1)
+mostraNoConsole(nome2)
+mostraNoConsole(nome3)
+*/
+
+// Exercicio 2 
+/*
+function somarNumeros(umNumero, outroNumero){
+
+const resultadoDaSoma = umNumero + outroNumero
+let soma = 54 + 56
+
+return resultadoDaSoma +soma
+
+}
+
+//somarNumeros(2 , 5)
+
+console.log( somarNumeros )
+
+*/
 
 
 
 
 
+// Exercício 3 
+// Função Anonima
+/*
+const nome = "Luis"
 
 
+const mostraNoConsole = function( parametroNome ) {
+
+    console.log(`Olá` , parametroNome )
+
+}
 
 
+mostraNoConsole( nome )
+mostraNoConsole( "Antonio" )
+*/
 
+// Arrow function
 
+/*
+const mostraConsoleFrase = (entrada, entrada1, entrada2) => {
 
+    console.log( `Olá`, entrada, `Olá`, entrada1, `Olá`, entrada2 )
+}
 
-
-
+mostraConsoleFrase( "Luis", "João", "Julio")
+*/
 
 
 
