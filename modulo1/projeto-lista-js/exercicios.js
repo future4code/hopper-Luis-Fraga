@@ -100,8 +100,8 @@ function retornaUltimoElemento(array) {
 function trocaPrimeiroEUltimo(array) {
   // implemente sua lógica aqui
   let arrayReserva = array[0]
-  return array[0] = array.length[-1]
-  
+ array[0] = array.length[-1]
+  return arrayReserva
 } 
 
 // EXERCÍCIO 12
@@ -112,10 +112,7 @@ return string1.toLowerCase() === string2.toLowerCase()
 
 // EXERCÍCIO 13
 function checaRenovacaoRG() {
-  // implemente sua lógica aqui
-const idade = prompt("")
-
-let idadeRG = prompt("")
+  // implemente sua lógica aqu
 
 console.log((idade <= 20 && idadeRG >= 5) || (idade > 20 && idade <= 50 && idadeRG >= 10) || (idade > 50 && idadeRG >= 15))
 
