@@ -93,26 +93,31 @@ function retornaPrimeiroElemento(array) {
 // EXERCÍCIO 10
 function retornaUltimoElemento(array) {
   // implemente sua lógica aqui
-  return array[-1]
+  return array.pop()
 }
 
 // EXERCÍCIO 11
 function trocaPrimeiroEUltimo(array) {
   // implemente sua lógica aqui
-return 
+  let arrayReserva = array[0]
+  return array[0] = array.length[-1]
+  
 } 
 
 // EXERCÍCIO 12
 function checaIgualdadeDesconsiderandoCase(string1, string2) {
   // implemente sua lógica aqui
-
+return string1.toLowerCase() === string2.toLowerCase()
 }
 
 // EXERCÍCIO 13
 function checaRenovacaoRG() {
   // implemente sua lógica aqui
+const idade = prompt("")
 
-}
+let idadeRG = prompt("")
+
+console.log((idade <= 20 && idadeRG >= 5) || (idade > 20 && idade <= 50 && idadeRG >= 10) || (idade > 50 && idadeRG >= 15))
 
 // EXERCÍCIO 14
 function checaAnoBissexto(ano) {
