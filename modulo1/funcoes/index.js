@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> fd1c6f1153cb07734996505e95196790dd1131c7
 // Exercício de interpretação 
 
 // Exercício 1-
@@ -124,9 +128,17 @@ return num1 / num2
 }
 
 let valor1 = Number(prompt("Digite um numero"))
+<<<<<<< HEAD
 
 let valor2 = Number(prompt("Digite outro numero"))
 
 console.log(somaDeUm, subDeUm, multDeUm, divDeUm,) 
 
 */
+=======
+let valor2 = Number(prompt("Digite outro numero"))
+
+console.log(`${somaDeUm}, ${subDeUm}, ${multDeUm}, ${divDeUm}`)
+
+*/
+>>>>>>> fd1c6f1153cb07734996505e95196790dd1131c7
