@@ -77,5 +77,5 @@ let frutas = frutaBoa => {
 
 carrinho.push(fruta0 && fruta1 && fruta2)
 
-console.log(carrinho)
+console.log(carrinho))
 */
