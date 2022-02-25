@@ -60,7 +60,7 @@ switch (generoFilme, precoIngresso){
         break
     default:
         console.log("Escolha outro filme :(")
-        break 
+        break
 }
 */
 
