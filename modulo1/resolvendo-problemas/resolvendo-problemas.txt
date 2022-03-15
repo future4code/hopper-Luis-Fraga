@@ -1,0 +1,7 @@
+//Como resolver problemas no javascript
+
+
+Primeiramente não existe fórmula mágica para resolver todos os problemas.
+
+Sempre ter atenção no enunciado e retirar as informações relevantes, pensar nas entradas e saídas, fazer esquemas visuais, 
+criar código feio sempre tentando testar na força-bruta e claro não podemos esquecer de refatorar. 
