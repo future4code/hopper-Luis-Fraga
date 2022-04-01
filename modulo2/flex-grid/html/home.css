@@ -1,0 +1,80 @@
+header{
+    display: flex;
+    background-color: mediumvioletred;
+    font-size: medium;
+    padding-top: 20px;
+    align-items: center;
+}
+
+
+.rosaclaro{
+    background-color: #f2d0e0;
+    display: flex;
+    
+    
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+main{
+    box-shadow: 10px 10px 20px black;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-template-rows: 1fr;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: mediumvioletred;
+    align-items: center;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
