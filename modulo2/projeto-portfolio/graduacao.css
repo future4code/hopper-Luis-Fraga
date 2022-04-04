@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: aqua;
+
+}
+footer{
+    justify-items: end;
+}
+h1{
+    background-color: rgb(26, 115, 138);
+}
+h2{
+    background-color: rgba(81, 155, 151, 0.808);
+}
+h3{
+    background-color: rgb(110, 153, 153);
+}
+h4{
+    background-color: rgb(98, 96, 189);
+}
+h5{
+    background-color: rgb(102, 105, 105);
+}
+h6{
+    background-color: blueviolet;
+}
