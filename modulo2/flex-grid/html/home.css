@@ -1,9 +1,9 @@
 header{
     display: flex;
     background-color: mediumvioletred;
-    font-size: medium;
-    padding-top: 20px;
+   
     align-items: center;
+    justify-content: space-between;
 }
 
 
